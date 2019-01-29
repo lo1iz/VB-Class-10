@@ -1,0 +1,24 @@
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.exe.config
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.pdb
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbprojAssemblyReference.cache
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.Form1.resources
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.Resources.resources
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbproj.GenerateResource.cache
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.pdb
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.exe.config
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.exe
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.pdb
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\bin\Debug\Example3_InsertDateDB.xml
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbprojResolveAssemblyReference.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.Form1.resources
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.Resources.resources
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbproj.GenerateResource.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.exe
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.xml
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example3_InsertDateDB\obj\Debug\Example3_InsertDateDB.pdb

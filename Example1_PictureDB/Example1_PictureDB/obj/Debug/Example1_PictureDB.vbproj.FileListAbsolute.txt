@@ -1,0 +1,24 @@
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe.config
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.pdb
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbprojAssemblyReference.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Form1.resources
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Resources.resources
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.GenerateResource.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.pdb
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe.config
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.exe
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.pdb
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\bin\Debug\Example1_PictureDB.xml
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbprojResolveAssemblyReference.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Form1.resources
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.Resources.resources
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.GenerateResource.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.exe
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.xml
+C:\Users\58121057-2\source\repos\VB-Class-10\Example1_PictureDB\Example1_PictureDB\obj\Debug\Example1_PictureDB.pdb

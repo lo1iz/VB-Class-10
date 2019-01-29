@@ -1,0 +1,12 @@
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\bin\Debug\Example5_DeleteDB.exe.config
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\bin\Debug\Example5_DeleteDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\bin\Debug\Example5_DeleteDB.pdb
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\bin\Debug\Example5_DeleteDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.vbprojAssemblyReference.cache
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.Form1.resources
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.Resources.resources
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.vbproj.GenerateResource.cache
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.vbproj.CoreCompileInputs.cache
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.exe
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.xml
+D:\VB.NET Code\Example1_PictureDB\Example5_DeleteDB\obj\Debug\Example5_DeleteDB.pdb
